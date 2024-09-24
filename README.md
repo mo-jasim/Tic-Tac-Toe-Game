@@ -32,7 +32,3 @@ This project is a fully functional implementation of the classic **Tic-Tac-Toe**
 
 ### Contributions:
 Contributions, issues, and feature requests are welcome! Please feel free to check the [business@jasim.io](#) if you find any bugs or would like to request enhancements.
-
----
-
-This description highlights the technical details and features while maintaining a professional tone. Feel free to modify it to fit your style!
