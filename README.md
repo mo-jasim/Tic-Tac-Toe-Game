@@ -20,7 +20,7 @@ This project is a fully functional implementation of the classic **Tic-Tac-Toe**
 ### How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jasim-ansari-23/Tic-Tac-Toe-Game.git
+   https://github.com/mo-jasim/Tic-Tac-Toe-Game.git
    ```
 2. Open the `index.html` file in your browser.
 3. Start playing by clicking on the grid squares to make your move!
