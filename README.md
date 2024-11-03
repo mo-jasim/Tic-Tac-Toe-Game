@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe Game
 
-Check out this game here: [http://tic-tac-toe-game.jasim.io/]
+Check out this game here: [http://hoverboard.buildwithjasim.tech/]
 
 ### About
 This project is a fully functional implementation of the classic **Tic-Tac-Toe** game, developed using modern web technologies. The game allows two players to alternate turns, marking their respective symbols ('X' or 'O') in a 3x3 grid. The objective is to achieve three consecutive marks, either horizontally, vertically, or diagonally, to win the game.
